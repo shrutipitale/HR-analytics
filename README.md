@@ -36,6 +36,8 @@ It enables HR teams to monitor employee metrics, identify risk factors, and make
 - Hiring trends from 2012–2022  
 - Active employees by department  
 - Department-wise job role distribution  
+---
+<img width="1532" height="855" alt="Screenshot 2026-02-28 171549" src="https://github.com/user-attachments/assets/b0d9f6ee-9e5b-430b-8ec0-d4752541946e" />
 
 ---
 
@@ -51,6 +53,8 @@ It enables HR teams to monitor employee metrics, identify risk factors, and make
 - Ethnicity vs Average Salary
 
 📌 Helps HR understand workforce diversity and salary distribution patterns.
+---
+<img width="1542" height="848" alt="Screenshot 2026-02-28 171615" src="https://github.com/user-attachments/assets/44ebf9bd-ba51-49d6-b5d3-ef956bfc07f6" />
 
 ---
 
@@ -66,6 +70,8 @@ It enables HR teams to monitor employee metrics, identify risk factors, and make
 - Manager Rating
 
 📌 Enables tracking of employee performance and engagement trends over time.
+---
+<img width="1536" height="871" alt="Screenshot 2026-02-28 171631" src="https://github.com/user-attachments/assets/970a675e-cbe7-47d9-9bd7-b670d5d38fcb" />
 
 ---
 
@@ -80,6 +86,8 @@ It enables HR teams to monitor employee metrics, identify risk factors, and make
 - Attrition by Tenure
 
 📌 Identifies high-risk segments and key drivers of employee turnover.
+---
+<img width="1404" height="789" alt="Screenshot 2026-02-28 171644" src="https://github.com/user-attachments/assets/ab187d83-6449-42b7-96f3-f88d7d72df9d" />
 
 ---
 
